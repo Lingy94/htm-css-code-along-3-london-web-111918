@@ -40,3 +40,8 @@ figcaption {
 
 /* ID Selector (apply to only one unique element per page) */
 
+#logo { /*select elements with id="logo" */
+  background: aqua;
+}
+
+/* Descendent 
